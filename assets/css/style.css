@@ -1,0 +1,67 @@
+body {
+
+    background-image: url("../images/44447.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    background-color: #093263;
+    font-size: 35px;
+    text-align: center;
+    color:#c8d2d4;
+    
+    
+}
+
+#container {
+    color:#c8d2d4;
+    font-size: 18px;
+    word-spacing: 4px;
+    box-sizing: 960px;
+    background: rgba(77, 76, 76, 0.5);
+    overflow:auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px auto;
+    width: 60%;
+    padding: 25px;
+    border: rgba(10, 10, 10, 0.5) solid 2px; 
+}
+
+header h1{
+    margin:0;
+    padding:0;
+}
+
+section{
+    min-height:400px;
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+
+input[type="submit"]{
+    background-color:#093263;
+    color:#c8d2d4;
+    border:0;
+    margin:0;
+    padding:10px 15px;
+    cursor: pointer;
+
+}
+
+#results h3{
+    color:rgb(5, 5, 5);
+    background:yellow;
+    padding:0;
+    margin:0;
+
+}
+
+#results span{
+    color: black;
+    font-weight: bold;
+}
+
